@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ABMusApp</string>
+
+    <!--    Login-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="forgotPassword">Forget password?</string>
+    <string name="resetPassword">Reset here</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="emailAddress">Email address</string>
+    <string name="register">Register</string>
+
+</resources>
